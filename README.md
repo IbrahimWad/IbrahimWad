@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @IbrahimWad
-- 👀 I’m interested in Flutter and Dart
-- 🌱 I’m currently learning PHP and larvel
-- 📫 How to reach me on facbook this is the link https://www.facebook.com/profile.php?id=100015024482617
+# 👋 Hello, I'm Ibrahim Wad!
+
+## 🚀 About Me
+- 👨‍💻 I’m passionate about **Flutter** and **Dart** development  
+- 🌱 Currently diving into the world of **PHP** and **Laravel**  
+- 📚 Always eager to learn new technologies and improve my coding skills  
+- 🎯 Focused on building clean, efficient, and user-friendly applications  
+
+## 📬 Connect With Me
+- 💬 Feel free to reach out or connect with me on [Facebook](https://www.facebook.com/profile.php?id=100015024482617)
+
+---
 
 <!---
 IbrahimWad/IbrahimWad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
